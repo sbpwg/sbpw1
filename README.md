@@ -1,4 +1,4 @@
-![](images/sle-title-bar.png)
+![](/images/sle-title-bar.png)
 
 # 1st Sonic Boom Prediction Workshop (2014)
 
