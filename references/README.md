@@ -1,4 +1,4 @@
-![](images/sle-title-bar.png)
+![](../images/sle-title-bar.png)
 
 # 2014 1st AIAA Sonic Boom Workshop Related Publications
 
