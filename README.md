@@ -1,6 +1,10 @@
 # 1st Sonic Boom Prediction Workshop (2014)
 
-![LM](images/lm-650x1024.png) The objective of the First Sonic Boom Prediction Workshop is to assess the state of the art for predicting signatures suitable for sonic boom propagation. To be suitable, a flow solution must be accurate sufficiently far from the vehicle to avoid near-field interference. Comparisons will be made between participant solutions on workshop provided grids. Participants are requested to apply their best practices for computing solutions on the provided geometries. There is particular interest in exploring refinement techniques including grid adaptation and alignment with flow characteristics. Impartial comparisons will be made between different solution schemes as well as with wind tunnel validation data for assessing the state of the art and identifying areas requiring additional research and further development.
+<img src="images/lm-650x1024.png" align="left" width="250">
+
+The objective of the First Sonic Boom Prediction Workshop is to assess the state of the art for predicting signatures suitable for sonic boom propagation. To be suitable, a flow solution must be accurate sufficiently far from the vehicle to avoid near-field interference. Comparisons will be made between participant solutions on workshop provided grids. Participants are requested to apply their best practices for computing solutions on the provided geometries. There is particular interest in exploring refinement techniques including grid adaptation and alignment with flow characteristics. Impartial comparisons will be made between different solution schemes as well as with wind tunnel validation data for assessing the state of the art and identifying areas requiring additional research and further development.
+
+<br clear="left"/>
 
 The agenda for the workshop is available as [Final Agenda](https://lbpw.larc.nasa.gov/wp-content/uploads/sites/13/2014/01/SBPW1_final_agenda.pdf). The [Workshop Presentations](https://lbpw-ftp.larc.nasa.gov/lbpw1/presentations/) (including introduction and summary) from the first workshop are available on the HTTPS server. The template used for the participant presentation is available as [Presentation Guidelines](https://lbpw.larc.nasa.gov/wp-content/uploads/sites/13/2013/12/SBPW1_Presentation_Guidelines.pdf).
 
