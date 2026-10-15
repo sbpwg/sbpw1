@@ -14,7 +14,7 @@ The agenda for the workshop is available as [Final Agenda](SBPW1_final_agenda.pd
 
 [Participant submitted data and derived analysis](https://lbpw-ftp.larc.nasa.gov/lbpw1/workshop/)
 
-[References related to the 2014 First AIAA Sonic Boom Workshop](https://lbpw.larc.nasa.gov/references/2014-workshop-publications/)
+[References related to the 2014 First AIAA Sonic Boom Workshop](references/README.md)
 
 [SBPW 1 Flyer](SBPW_1_Flyer.pdf)
 
