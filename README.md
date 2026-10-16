@@ -1,4 +1,4 @@
-![](/images/sle-title-bar.png)
+<img src="images/sle-title-bar.png" width="100%">
 
 # 1st Sonic Boom Prediction Workshop (2014)
 
